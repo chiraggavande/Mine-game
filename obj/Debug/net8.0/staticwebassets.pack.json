@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Chirag.Gavande\\source\\repos\\MineGame\\MineGame\\wwwroot\\gameLogic.js",
+      "PackagePath": "staticwebassets\\gameLogic.js"
+    },
+    {
+      "Id": "C:\\Users\\Chirag.Gavande\\source\\repos\\MineGame\\MineGame\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Chirag.Gavande\\source\\repos\\MineGame\\MineGame\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Chirag.Gavande\\source\\repos\\MineGame\\MineGame\\wwwroot\\welcome.html",
+      "PackagePath": "staticwebassets\\welcome.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MineGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MineGame.props",
+      "PackagePath": "build\\MineGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MineGame.props",
+      "PackagePath": "buildMultiTargeting\\MineGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MineGame.props",
+      "PackagePath": "buildTransitive\\MineGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

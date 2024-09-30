@@ -1,0 +1,19 @@
+.box{
+    height: 10vh;
+    width: 10vh;
+    border: 2px solid #a69f9f84;
+    box-shadow:1px 1px 3px black;
+}
+.box:hover{
+    scale: 110%;
+    cursor: pointer;
+    box-shadow:1px 1px 3px ;
+
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    /* height: 100vh; */
+    /* Adjust as needed */
+    gap: 10px;
+}
