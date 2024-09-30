@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MineGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683d0eda551175fd7ba8b0f28015f64ac8faa7be")]
 [assembly: System.Reflection.AssemblyProductAttribute("MineGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MineGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
